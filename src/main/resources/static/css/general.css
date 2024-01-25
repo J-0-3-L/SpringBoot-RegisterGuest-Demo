@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.cus-container{
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #dcf0db;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cus-container h2{
+    text-align: center;
+}
+.cus-container form button{
+    display: block;
+    margin: 10px auto;
+}
+.cus-container h6 {
+    text-align: center;
+}
+.cus-container p{
+    text-align: center;
+}
